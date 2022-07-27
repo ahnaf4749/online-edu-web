@@ -5,6 +5,14 @@
 .navbar{
     font-weight: 500;
 }
-.sumu{
-    margin-bottom: 200px;
+.course{
+    background-color: #289BDE;
+}
+.registar{
+    background-color: #289BDE;
+    height: 300px;
+}
+.button{
+    color: #289BDE;
+    font-weight: 500;
 }
