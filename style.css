@@ -7,22 +7,12 @@
     top: 50%;
     transform: translatey(-50%);
 }
-.sumu{
-    background-color:rgba(0 0 0 0.7);
-}
 .navbar{
     font-weight: 500;
-}
-.course{
-    background-color: #289BDE;
 }
 .registar{
     background-color: #289BDE;
     height: 300px;
-}
-.button{
-    color: #289BDE;
-    font-weight: 500;
 }
 .accor{
     font-size: 20px;
@@ -34,4 +24,10 @@
 .icon{
     font-size: 30px;
     margin: 10px;
+    color: gray;
+}
+.content{
+    background-color: #F4FAFD;
+    font-weight: 500;
+    font-size: 20px;
 }
