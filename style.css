@@ -2,6 +2,14 @@
     font-size: 40px;
    font-weight: 600;
 }
+.caurosol{
+    bottom: initial;
+    top: 50%;
+    transform: translatey(-50%);
+}
+.sumu{
+    background-color:rgba(0 0 0 0.7);
+}
 .navbar{
     font-weight: 500;
 }
